@@ -1,1 +1,2 @@
 包含了个人算法练习的一些代码，包括leetcode和Codeforces，周赛\div2\div3为主
+将文件夹名字改成leetcode可以正常看到cph插件的运行结果
