@@ -1,0 +1,1 @@
+{"name":"Local: 5C","url":"c:\\Users\\10200\\Desktop\\leetcode\\cf_1700_1900_sort\\5C.cpp","tests":[{"id":1705072416426,"input":")((())))(()())\n","output":"6 2"},{"id":1705072429207,"input":"))(\n","output":"0 1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\10200\\Desktop\\leetcode\\cf_1700_1900_sort\\5C.cpp","group":"local","local":true}

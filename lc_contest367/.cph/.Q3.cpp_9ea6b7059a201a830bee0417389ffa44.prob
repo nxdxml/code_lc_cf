@@ -1,0 +1,1 @@
+{"name":"Local: Q3","url":"c:\\Users\\10200\\Desktop\\leetcode\\lc_contest367\\Q3.cpp","tests":[{"id":1701326461162,"input":"2 0 0\n2 1","output":"0 0"},{"id":1701326551173,"input":"4 2 4\n5 1 4 1","output":"0 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\10200\\Desktop\\leetcode\\lc_contest367\\Q3.cpp","group":"local","local":true}

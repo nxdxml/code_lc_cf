@@ -1,0 +1,1 @@
+{"name":"Local: D","url":"c:\\Users\\10200\\Desktop\\leetcode\\GDUT2023\\D.cpp","tests":[{"id":1701498176123,"input":"3\n6 5\n12 12\n7 9","output":"2\n0\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\10200\\Desktop\\leetcode\\GDUT2023\\D.cpp","group":"local","local":true}

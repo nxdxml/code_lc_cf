@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"c:\\Users\\10200\\Desktop\\leetcode\\cf_div2_e160\\A.cpp","tests":[{"id":1703147755531,"input":"5\n20002001\n391125\n200200\n2001000\n12\n","output":"2000 2001\n39 1125\n-1\n200 1000\n1 2\n\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\10200\\Desktop\\leetcode\\cf_div2_e160\\A.cpp","group":"local","local":true}

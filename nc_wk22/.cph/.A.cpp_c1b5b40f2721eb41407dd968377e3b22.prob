@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"c:\\Users\\10200\\Desktop\\leetcode\\nc_wk22\\A.cpp","tests":[{"id":1701601413524,"input":"redered","output":"Yes"},{"id":1701601464285,"input":"reredd","output":"No"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\10200\\Desktop\\leetcode\\nc_wk22\\A.cpp","group":"local","local":true}
