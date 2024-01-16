@@ -65,7 +65,7 @@ void solve(){
                 // continue;
             } else {
                 pre[i][j] = pre[i][j - i] + a[j - i + 1];
-                sum[i][j] = sum[i][j - i] + a[j - i + 1] * (j/i);
+                sum[i][j] = sum[i][j - i] + a[j - i + 1] * (LL)(j/i);
                 
             }
             // cout << i << " " << j << " " << pre[i][j] << " " << sum[i][j] << endl;
@@ -79,11 +79,11 @@ void solve(){
         int R = L + d * k;
         // cout << endl << L << " " << R << " ";
         if(d < M){
-            cout << sum[d][R] - sum[d][L] - (pre[d][R] - pre[d][L]) * LL(L / d) << " ";
+            cout << sum[d][R] - sum[d][L] - (pre[d][R] - pre[d][L]) * (LL)(L / d) << " ";
         } else {
             LL ans = 0;
             for(int i = 1; i <= k; i ++ ){
-                ans += (LL)a[s + i - 1] * i;
+                ans += (LL)a[s + (i - 1) * d] * i;
             }
             cout << ans << " ";
         }
