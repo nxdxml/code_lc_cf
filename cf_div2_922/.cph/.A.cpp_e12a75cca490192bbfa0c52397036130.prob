@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"c:\\Users\\10200\\Desktop\\leetcode\\cf_div2_922\\A.cpp","tests":[{"id":1706625752201,"input":"5\n2 2\n7 8\n16 9\n3 5\n10000 10000","output":"2\n28\n64\n6\n50000000"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\10200\\Desktop\\leetcode\\cf_div2_922\\A.cpp","group":"local","local":true}
