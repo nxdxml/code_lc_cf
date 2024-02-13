@@ -1,0 +1,1 @@
+{"name":"Local: E","url":"c:\\Users\\10200\\Desktop\\leetcode\\ABC339\\E.cpp","tests":[{"id":1707052852120,"input":"4 2\n3 5 1 2","output":"3"},{"id":1707053590628,"input":"5 10\n10 20 100 110 120","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\10200\\Desktop\\leetcode\\ABC339\\E.cpp","group":"local","local":true}
