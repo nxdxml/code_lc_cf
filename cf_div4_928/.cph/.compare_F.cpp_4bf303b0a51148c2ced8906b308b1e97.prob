@@ -1,0 +1,1 @@
+{"name":"Local: compare_F","url":"c:\\Users\\10200\\Desktop\\leetcode\\cf_div4_928\\compare_F.cpp","tests":[{"id":1708361867071,"input":"1\nWBWBWBW\nBWBWBWB\nWBBBBBW\nBWBBBWB\nWBBBBBW\nBWBWBWB\nWBWBWBW","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\10200\\Desktop\\leetcode\\cf_div4_928\\compare_F.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Q5","url":"c:\\Users\\10200\\Desktop\\leetcode\\lqdb6\\Q5.cpp","tests":[{"id":1708779125876,"input":"5 3\n1 2 2 4 5\n1 2\n1 5\n1 3\n7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\10200\\Desktop\\leetcode\\lqdb6\\Q5.cpp","group":"local","local":true}

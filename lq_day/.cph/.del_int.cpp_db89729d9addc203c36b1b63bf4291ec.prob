@@ -1,0 +1,1 @@
+{"name":"Local: del_int","url":"c:\\Users\\10200\\Desktop\\leetcode\\lq_day\\del_int.cpp","tests":[{"id":1708927413813,"input":"5 3\n1 4 2 8 7","output":"17 7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\10200\\Desktop\\leetcode\\lq_day\\del_int.cpp","group":"local","local":true}
