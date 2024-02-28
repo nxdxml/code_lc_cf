@@ -1,0 +1,1 @@
+{"name":"Local: chafen_lca","url":"c:\\Users\\10200\\Desktop\\leetcode\\lq_day\\chafen_lca.cpp","tests":[{"id":1709102999679,"input":"6 2\n1 2\n2 3\n4 3\n2 5\n6 5\n3 6\n4 5","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\10200\\Desktop\\leetcode\\lq_day\\chafen_lca.cpp","group":"local","local":true}
