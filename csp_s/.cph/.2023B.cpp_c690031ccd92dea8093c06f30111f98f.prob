@@ -1,0 +1,1 @@
+{"name":"Local: 2023B","url":"c:\\Users\\10200\\Desktop\\leetcode\\csp_s\\2023B.cpp","tests":[{"id":1709480283536,"input":"8\naccabccb","output":"5"},{"id":1709480346101,"input":"4\nabba","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\10200\\Desktop\\leetcode\\csp_s\\2023B.cpp","group":"local","local":true}
