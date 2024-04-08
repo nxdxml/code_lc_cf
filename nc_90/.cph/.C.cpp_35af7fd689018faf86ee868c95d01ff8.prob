@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"c:\\Users\\10200\\Desktop\\leetcode\\nc_90\\C.cpp","tests":[{"id":1712316747772,"input":"3\n2\n10\n101","output":""},{"id":1712316966601,"input":"1\n101","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\10200\\Desktop\\leetcode\\nc_90\\C.cpp","group":"local","local":true}
