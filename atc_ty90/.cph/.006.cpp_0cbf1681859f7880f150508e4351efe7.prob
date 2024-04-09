@@ -1,0 +1,1 @@
+{"name":"Local: 006","url":"c:\\Users\\10200\\Desktop\\leetcode\\atc_ty90\\006.cpp","tests":[{"id":1712561906515,"input":"7 3\natcoder\n","output":"acd"},{"id":1712563863283,"input":"14 5\nkittyonyourlap","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\10200\\Desktop\\leetcode\\atc_ty90\\006.cpp","group":"local","local":true}
