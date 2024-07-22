@@ -1,0 +1,2 @@
+shift+alt+上下  复制当前一行
+ctrl+alt+b      cph运行代码

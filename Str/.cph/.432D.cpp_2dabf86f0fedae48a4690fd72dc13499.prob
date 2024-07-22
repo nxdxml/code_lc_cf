@@ -1,0 +1,1 @@
+{"name":"Local: 432D","url":"c:\\Users\\10200\\Desktop\\leetcode\\Str\\432D.cpp","tests":[{"id":1714819415706,"input":"ABACABA","output":"3\n1 4\n3 2\n7 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\10200\\Desktop\\leetcode\\Str\\432D.cpp","group":"local","local":true}
