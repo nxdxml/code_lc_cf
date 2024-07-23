@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"c:\\Users\\10200\\Desktop\\leetcode\\ABC363\\C.cpp","tests":[{"id":1721644180792,"input":"10 5\nabcwxyzyxw\n","output":"440640\n"},{"id":1721645437726,"input":"3 2\naab","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\10200\\Desktop\\leetcode\\ABC363\\C.cpp","group":"local","local":true}
